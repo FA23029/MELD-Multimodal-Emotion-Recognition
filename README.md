@@ -148,5 +148,3 @@ This project is developed for academic and research purposes. Its predictions ar
 ## Author
 
 **Srinidhi**
-
-GitHub: [FA23029](https://github.com/FA23029)
